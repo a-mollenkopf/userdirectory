@@ -1,0 +1,27 @@
+.thead {
+    background-color: rgb(168, 163, 199);
+}
+
+.bold{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+.navbar{
+    background-color: rgb(135, 108, 199);
+    color: rgb(27, 27, 27);
+    padding: 30px 5px 10px 5px;
+}
+
+a {
+    margin-bottom: 30px;
+}
+
+form {
+    margin-bottom: 30px;
+}
+
+.btn {
+    background-color: rgb(243, 240, 255);
+}
