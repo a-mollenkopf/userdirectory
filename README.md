@@ -49,15 +49,16 @@ Navigate through the site!
 This project was a lot of fun and really tested my skills on react components. I am still a little lost on splitting the components up into different JSX files so thats why it's all contained into one Main.jsx file. You are able to click all table headers and sort forward and back as well as filter using all headers. After you search to get back to everyone, delete all data in the search field and hit search and it will pull them all back up.
 
 
-[github profile] (https://github.com/a-mollenkopf)
+[github profile](https://github.com/a-mollenkopf)
+
+
+[deployed site](https://a-mollenkopf.github.io/userdirectory/)
 
 
 [User directory in action]
 
 
-
 <img src="./public/userdirectory.png">
-
 
 
 # Credits
