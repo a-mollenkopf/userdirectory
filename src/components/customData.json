@@ -1,0 +1,128 @@
+[
+  {
+    "firstName": "Scott",
+    "lastName": "Pilgrim",
+    "userID": "1",
+    "email": "scottPilgrimRules@someWebsite.com",
+    "age": "23"
+  },
+  {
+    "firstName": "Ramona",
+    "lastName": "Flowers",
+    "userID": "2",
+    "email": "flowers@someWebsite.com",
+    "age": "24"
+  },
+  {
+    "firstName": "Wallace",
+    "lastName": "Wells",
+    "userID": "3",
+    "email": "someguy@someWebsite.com",
+    "age": "25"
+  },
+  {
+    "firstName": "Knives",
+    "lastName": "Chau",
+    "userID": "4",
+    "email": "knives@someWebsite.com",
+    "age": "17"
+  },
+  {
+    "firstName": "Stephen",
+    "lastName": "Stills",
+    "userID": "5",
+    "email": "thestills@someWebsite.com",
+    "age": "23"
+  },
+  {
+    "firstName": "Kim",
+    "lastName": "Pine",
+    "userID": "6",
+    "email": "ihatescott@someWebsite.com",
+    "age": "23"
+  },
+  {
+    "firstName": "Young",
+    "lastName": "Neil",
+    "userID": "7",
+    "email": "youngman@someWebsite.com",
+    "age": "19"
+  },
+  {
+    "firstName": "Stacey",
+    "lastName": "Pilgrim",
+    "userID": "8",
+    "email": "ilovedrama@someWebsite.com",
+    "age": "18"
+  },
+  {
+    "firstName": "Julie",
+    "lastName": "Powers",
+    "userID": "9",
+    "email": "ilovedrama2@someWebsite.com",
+    "age": "22"
+  },
+  {
+    "firstName": "Matthew",
+    "lastName": "Patel",
+    "userID": "10",
+    "email": "evilex1@someWebsite.com",
+    "age": "23"
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Lee",
+    "userID": "11",
+    "email": "evilex2@someWebsite.com",
+    "age": "26"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Ingram",
+    "userID": "12",
+    "email": "evilex3@someWebsite.com",
+    "age": "25"
+  },
+  {
+    "firstName": "Roxie",
+    "lastName": "Richter",
+    "userID": "13",
+    "email": "itsnotaphase@someWebsite.com",
+    "age": "22"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Katayanagi",
+    "userID": "14",
+    "email": "evilex5@someWebsite.com",
+    "age": "24"
+  },
+  {
+    "firstName": "Ken",
+    "lastName": "Katayanagi",
+    "userID": "15",
+    "email": "evilex6@someWebsite.com",
+    "age": "24"
+  },
+  {
+    "firstName": "Gideon",
+    "lastName": "Graves",
+    "userID": "16",
+    "email": "thebestevilex@someWebsite.com",
+    "age": "27"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "Comeau",
+    "userID": "17",
+    "email": "knowseveryone@someWebsite.com",
+    "age": "28"
+  },
+  {
+    "firstName": "Simon",
+    "lastName": "Lee",
+    "userID": "18",
+    "email": "lookslikegideon@someWebsite.com",
+    "age": "25"
+  } 
+]
